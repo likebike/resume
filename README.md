@@ -1,3 +1,3 @@
 # resume
-Resume of Christopher Sebastian: http://resume.likebike.com/
+Résumé of Christopher Sebastian: http://resume.likebike.com/
 
