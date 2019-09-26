@@ -25,6 +25,16 @@ div#aboutme div#mytechnologies h3.first {
     margin-top:0;
 }
 
+div#projects div.column {
+    display:inline-block;
+    margin-right:3em;
+    vertical-align:top;
+}
+div#projects div.column h2 {
+    margin-top:0;
+    margin-bottom:0;
+}
+
 ul.fancyindent {
     margin-left:4em;
     text-indent:-2em;

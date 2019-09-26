@@ -30,22 +30,36 @@
   
   <h3>Technologies I am Learning:</h3>
   <ul class=fancyindent>
-    <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
     <li>Rust</li>
+    <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
     <li>3D Modeling (Blender)</li>
   </ul>
   </div>
 </div>
 
-<div id=education>
-  <h1>Education</h1>
-    
-  <div class=entry>
-    <div class=when>Graduated 2007</div>
-    <div class=title>BS in Electrical Engineering</div>
-    <div class=details>Arizona State University</div>
-    <div class=techs>Emphasis: Realtime DSP & Circuit Design</div>
-    <div class=description></div>
+<div id=projects>
+  <h1>Projects</h1>
+  
+  <div class=column>
+    <h2>Public Websites</h2>
+  
+    <ul>
+      <li><a href="http://koin.cx/">koin.cx</a></li>
+      <li><a href="http://thumpr.org/">thumpr.org</a></li>
+      <li><a href="http://likebike.com/">likebike.com</a></li>
+    </ul>
+  </div>
+  
+  <div class=column>
+    <h2>Open Source Software</h2>
+  
+    <ul>
+      <li><a href="http://jsonface.likebike.com/">jsonface.likebike.com</a></li>
+      <li><a href="http://q.likebike.com/">q.likebike.com</a></li>
+      <li><a href="http://muck.likebike.com/">muck.likebike.com</a></li>
+      <li><a href="http://pyhpy.likebike.com/">pyhpy.likebike.com</a></li>
+      <li><a href="http://github.com/likebike">See github.com/likebike for more...</a></li>
+    </ul>
   </div>
 
 </div>
@@ -150,6 +164,19 @@
     <div class=description>
       <p>The thing that caused me to start programming in the first place was my interest in financial markets. I created my first stock market analysis tool when I was in high school, and I have continued to develop better analysis systems ever since then. After many years of trial and error, I’m happy to say that I have discovered some very powerful analysis and prediction techniques, which I use successfully for trading.</p>
     </div>
+  </div>
+
+</div>
+
+<div id=education>
+  <h1>Education</h1>
+    
+  <div class=entry>
+    <div class=when>Graduated 2007</div>
+    <div class=title>BS in Electrical Engineering</div>
+    <div class=details>Arizona State University</div>
+    <div class=techs>Emphasis: Realtime DSP & Circuit Design</div>
+    <div class=description></div>
   </div>
 
 </div>
