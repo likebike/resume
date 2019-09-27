@@ -25,6 +25,14 @@ div#aboutme div#mytechnologies h3.first {
     margin-top:0;
 }
 
+div#projects {
+    page-break-after:always;
+}
+div#projects h1,
+div#experience h1,
+div#education h1 {
+    border-bottom:1px solid #888;
+}
 div#projects div.column {
     display:inline-block;
     margin-right:3em;
@@ -34,10 +42,17 @@ div#projects div.column h2 {
     margin-top:0;
     margin-bottom:0;
 }
+div#projects ul {
+    margin-left:0;
+}
+div#projects ul li {
+    list-style:none;
+}
 
 ul.fancyindent {
     margin-left:4em;
     text-indent:-2em;
+    list-style:none;
 }
 
 div.entry {

@@ -111,7 +111,7 @@
     </section>
     <section id=footer>
       <hr>
-      Last Update:&nbsp;2019-07-26
+      Last Update:&nbsp;2019-07-20
     </section>
   </body>
 </html>

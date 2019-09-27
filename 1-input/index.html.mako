@@ -44,9 +44,9 @@
     <h2>Public Websites</h2>
   
     <ul>
-      <li><a href="http://koin.cx/">koin.cx</a></li>
-      <li><a href="http://thumpr.org/">thumpr.org</a></li>
-      <li><a href="http://likebike.com/">likebike.com</a></li>
+      <li><a href="http://koin.cx/">koin.cx</a> -- Currency Analysis</li>
+      <li><a href="http://thumpr.org/">thumpr.org</a> -- Heartbeat Monitoring</li>
+      <li><a href="http://likebike.com/">likebike.com</a> -- Personal Website</li>
     </ul>
   </div>
   
@@ -54,10 +54,10 @@
     <h2>Open Source Software</h2>
   
     <ul>
-      <li><a href="http://jsonface.likebike.com/">jsonface.likebike.com</a></li>
-      <li><a href="http://q.likebike.com/">q.likebike.com</a></li>
-      <li><a href="http://muck.likebike.com/">muck.likebike.com</a></li>
-      <li><a href="http://pyhpy.likebike.com/">pyhpy.likebike.com</a></li>
+      <li><a href="http://jsonface.likebike.com/">jsonface.likebike.com</a> -- Advanced Go Unmarshalling</li>
+      <li><a href="http://q.likebike.com/">q.likebike.com</a> -- Process Queue</li>
+      <li><a href="http://muck.likebike.com/">muck.likebike.com</a> -- Build Tool</li>
+      <li><a href="http://pyhpy.likebike.com/">pyhpy.likebike.com</a> -- Static Website Framework</li>
       <li><a href="http://github.com/likebike">See github.com/likebike for more...</a></li>
     </ul>
   </div>
