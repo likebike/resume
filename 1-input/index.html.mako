@@ -69,7 +69,7 @@
 
   <div class=entry>
     <div class=when>2018-now</div>
-    <div class=title>Startup @ ChengDu Software Park: PayWay</div>
+    <div class=title>Startup @ ChengDu Software Park: PayWay (Custodial Wallet, Payment System, & Investment App)</div>
     <div class=details>Lead System Architect and Backend Developer</div>
     <div class=techs>Technologies: Go, Bitcoin, Ethereum, Monero, Linux, REST</div>
     <div class=description>
