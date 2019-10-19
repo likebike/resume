@@ -14,7 +14,7 @@
   
   <p>I take a very consistent approach when designing and developing systems. Even when presented with complex problems, my methodology enables me to discover “natural” solutions, which result in simplicity, clarity, and robustness.</p>
   
-  <p>After growing up in the USA, I explored much of Asia, and I have now been working in China for 7 years, becoming proficient at reading and writing Chinese (my spoken Chinese is below average). This experience has helped me to develop a global perspective which I didn’t have when living only in the USA.</p>
+  <p>After growing up in the USA, I explored much of Asia, and I have now been working in China for 7 years. This experience has helped me to develop a global perspective which I didn’t have when living only in the USA.</p>
   </div>
   
   <div id=mytechnologies>
