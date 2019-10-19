@@ -102,20 +102,25 @@ div.entry {
 div.entry div.when {
     position:absolute;
     right:0;
+    font-size:13px; /*hardcode*/
 }
 div.entry div.title {
-    font-size:115%;
+    /*font-size:115%;*/
+    font-size:15px; /*hardcode*/
     font-weight:bold;
 }
 div.entry div.details {
+    font-size:13px; /*hardcode*/
 }
 div.entry div.techs {
     font-style:italic;
+    font-size:13px; /*hardcode*/
 }
 div.entry div.description {
     margin-top:1em;
     margin-left:4em;
-    font-size:85%;
+    /*font-size:85%;*/
+    font-size:11px; /*hardcode*/
 }
 
 div.bigsection {
