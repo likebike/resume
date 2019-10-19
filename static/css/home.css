@@ -20,6 +20,11 @@ div#aboutme div#mytechnologies {
     display:inline-block;
     width:40%;
     vertical-align:top;
+
+    background: #e5e4de;
+    padding: 1em;
+    margin: -1em;
+    border-radius: 8px;
 }
 div#aboutme div#mytechnologies h3.first {
     margin-top:0;
