@@ -50,7 +50,7 @@ a#logo img {
     margin-bottom:-23px;
 }
 a#logo div.asciiLogo {
-    display:inline-block;
+    display:none /*inline-block*/ ;
     /*text-align:left;*/  /* The ascii-art actually looks better centered. */
     white-space:pre;
     font-family:monospace;
