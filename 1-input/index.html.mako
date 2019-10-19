@@ -32,7 +32,7 @@
   <ul class=fancyindent>
     <li>Rust</li>
     <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
-    <li>3D Modeling (Blender)</li>
+    <li>3D Modeling (Blender, Tilt Brush)</li>
   </ul>
   </div>
 </div>
