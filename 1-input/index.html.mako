@@ -6,7 +6,11 @@
     <link rel="stylesheet" type="text/css" href="${pyhpy.url('/static/css/home.css')}">
 </%block>
 
-<div id=aboutme>
+<div id=headline>
+  <h1>FinTech Expert &amp; Currency Trader</h1>
+</div>
+
+<div id=aboutme class=bigsection>
   <div id=aboutmedesc>
   <h1>About Me</h1>
   
@@ -16,28 +20,37 @@
   
   <p>After growing up in the USA, I explored much of Asia, and I have now been working in China for 7 years. This experience has helped me to develop a global perspective which I didn’t have when living only in the USA.</p>
   </div>
+
+  <img class=chris src="${pyhpy.url('/static/img/christopher-and-gabriella.jpg')}">
   
-  <div id=mytechnologies>
-  <h3 class=first>Technologies I am Proficient With:</h3>
-  <ul class=fancyindent>
-    <li><b>Code:</b> Go, Python, C, Java, Javascript (Web and Node.js), Bash</li>
-    <li><b>OS:</b> Linux, FreeBSD, Windows</li>
-    <li><b>DB:</b> Sqlite, MySQL, Postgresql, CouchDB, custom-made NoSQL DBs</li>
-    <li><b>SCM:</b> Git, Subversion</li>
-    <li><b>Deployment & Config Management:</b> cdist, Docker, custom-made deploy tools.</li>
-    <li><b>Blockchain:</b> Bitcoin, Monero, Ethereum, Hyperledger Sawtooth & Fabric</li>
-  </ul>
+</div>
+
+<div id=mytechnologies class=bigsection>
+  <h1>Technologies</h1>
+
+  <div class="proficient column">
+    <h2 class=first>I am Proficient With:</h2>
+    <ul class=fancyindent>
+      <li><b>Code:</b> Go, Python, C, Java, Javascript (Web and Node.js), Bash</li>
+      <li><b>OS:</b> Linux, FreeBSD, Windows</li>
+      <li><b>DB:</b> Sqlite, MySQL, Postgresql, CouchDB, custom-made NoSQL DBs</li>
+      <li><b>SCM:</b> Git, Subversion</li>
+      <li><b>Deployment & Config Management:</b> cdist, Docker, custom-made deploy tools.</li>
+      <li><b>Blockchain:</b> Bitcoin, Monero, Ethereum, Hyperledger Sawtooth & Fabric</li>
+    </ul>
+  </div>
   
-  <h3>Technologies I am Learning:</h3>
-  <ul class=fancyindent>
-    <li>Rust</li>
-    <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
-    <li>3D Modeling (Blender, Tilt Brush)</li>
-  </ul>
+  <div class="learning column">
+    <h2>I am Learning:</h2>
+    <ul class=fancyindent>
+      <li>Rust</li>
+      <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
+      <li>3D Modeling (Blender, Tilt Brush)</li>
+    </ul>
   </div>
 </div>
 
-<div id=projects>
+<div id=projects class=bigsection>
   <h1>Projects</h1>
   
   <div class=column>
@@ -64,7 +77,7 @@
 
 </div>
 
-<div id=experience>
+<div id=experience class=bigsection>
   <h1>Experience</h1>
 
   <div class=entry>
@@ -168,7 +181,7 @@
 
 </div>
 
-<div id=education>
+<div id=education class=bigsection>
   <h1>Education</h1>
     
   <div class=entry>
