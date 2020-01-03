@@ -30,8 +30,8 @@
 
   <div class="proficient column">
     <h2 class=first>I am Proficient With:</h2>
-    <ul class=fancyindent>
-      <li><b>Code:</b> Go, Python, C, Java, Javascript (Web and Node.js), Bash</li>
+    <ul>
+      <li><b>Code:</b> Rust, Go, Python, C, Java, Javascript (Web and Node.js), Bash</li>
       <li><b>OS:</b> Linux, FreeBSD, Windows</li>
       <li><b>DB:</b> Sqlite, MySQL, Postgresql, CouchDB, custom-made NoSQL DBs</li>
       <li><b>SCM:</b> Git, Subversion</li>
@@ -42,8 +42,7 @@
   
   <div class="learning column">
     <h2>I am Learning:</h2>
-    <ul class=fancyindent>
-      <li>Rust</li>
+    <ul>
       <li>Ethereum Smart Contracts (Solidity, Vyper)</li>
       <li>3D Modeling (Blender, Tilt Brush)</li>
     </ul>
@@ -67,6 +66,7 @@
     <h2>Open Source Software</h2>
   
     <ul>
+      <li><a href="https://github.com/likebike/fasteval">fasteval</a> -- Fast Evalutation of Algebraic Expressions</li>
       <li><a href="http://jsonface.likebike.com/">jsonface.likebike.com</a> -- Advanced Go Unmarshalling</li>
       <li><a href="http://q.likebike.com/">q.likebike.com</a> -- Process Queue</li>
       <li><a href="http://muck.likebike.com/">muck.likebike.com</a> -- Build Tool</li>

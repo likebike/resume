@@ -21,9 +21,11 @@ div#aboutme div#aboutmedesc {
 }
 div#aboutme div#aboutmedesc h1 {
     margin-top:0;
+    font-size:18px; /*hardcode*/
 }
 div#aboutme div#aboutmedesc p {
-    font-size:130%;
+    /*font-size:130%;*/
+    font-size:16.9px; /*hardcode*/
 }
 div#aboutme img.chris {
     display:inline-block;
@@ -42,6 +44,7 @@ div#xmytechnologies {
 }
 div#mytechnologies h2 {
     margin-top:0;
+    font-size:16px; /*hardcode*/
 }
 div#mytechnologies div.column {
     display:inline-block;
@@ -59,6 +62,9 @@ div#mytechnologies ul {
     text-indent:-2em;
     list-style:none;
 }
+div#mytechnologies ul li {
+    font-size:13px; /*hardcode*/
+}
 
 
 div#projects {
@@ -69,6 +75,7 @@ div#projects h1,
 div#experience h1,
 div#education h1 {
     border-bottom:1px solid #888;
+    font-size:18px; /*hardcode*/
 }
 div#projects div.column {
     display:inline-block;
@@ -78,12 +85,14 @@ div#projects div.column {
 div#projects div.column h2 {
     margin-top:0;
     margin-bottom:0;
+    font-size:16px; /*hardcode*/
 }
 div#projects ul {
     margin-left:0;
 }
 div#projects ul li {
     list-style:none;
+    font-size:13px; /*hardcode*/
 }
 
 div.entry {
@@ -93,20 +102,25 @@ div.entry {
 div.entry div.when {
     position:absolute;
     right:0;
+    font-size:13px; /*hardcode*/
 }
 div.entry div.title {
-    font-size:115%;
+    /*font-size:115%;*/
+    font-size:15px; /*hardcode*/
     font-weight:bold;
 }
 div.entry div.details {
+    font-size:13px; /*hardcode*/
 }
 div.entry div.techs {
     font-style:italic;
+    font-size:13px; /*hardcode*/
 }
 div.entry div.description {
     margin-top:1em;
     margin-left:4em;
-    font-size:85%;
+    /*font-size:85%;*/
+    font-size:11px; /*hardcode*/
 }
 
 div.bigsection {
